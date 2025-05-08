@@ -26,3 +26,18 @@ The Team Management Application simplifies managing team members by allowing use
 
 ![image](https://github.com/user-attachments/assets/72f47907-0c7a-474d-8bef-c68120bb945e)
 
+How to Run the App:
+Run the Backend:
+Follow the Backend Setup steps in the Installation Instructions to get the server running on http://localhost:5000.
+
+Run the Frontend:
+Follow the Frontend Setup steps in the Installation Instructions to get the frontend running on http://localhost:3000.
+
+Once the app is running, you can:
+
+Add Blog Posts: Navigate to the "Create Blog" page, fill out the form with the title, content, category, and tags, and submit to create a new blog post.
+
+View Blog Posts: Go to the "View Blogs" page to see a list of all published blog posts. You can view summaries or the full content by clicking on a post.
+
+View Individual Blog Details: Click "View Details" on any blog post's card to read the full post, view the author's details, and engage with the content through comments and likes.
+
